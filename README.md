@@ -2,7 +2,7 @@
 
 HR case studies play vital roles in human resource management, personnel management, and other related courses. They include a detailed description of a simulated or real-life decision-making scenario. They also aim at enhancing decision-making skills, managerial competency, and problem-solving skills.
 
-#GOALS:
+## GOALS:
 
 #### Monitor Key HR Metrics on Employee.
 #### Understand what factors impact attrition.
@@ -18,15 +18,15 @@ HR case studies play vital roles in human resource management, personnel managem
 8. Building Charts & Visualizations
 
 ## Some Key Insights are:
- It has employed 1470 people.
- Currently employs 1233 people.
- The largest department by far is Technology.
- Attrition rate is 16%.
- Majority of employees are between 20-29 years old.
- 2.7% more women than male in current employees.
- Non - binary make up 8.5% of total employees.
- White have highest average salary.
- Mixed or Multiple Ethnic Group has one of the lowest average salary.
- Attrition in frequent travelers is high.
- Those employees involved in Over-Time have higher chances of attrition.
- Attrition rate of Tenure 1 year and below is very high.
+- It has employed 1470 people.
+- Currently employs 1233 people.
+- The largest department by far is Technology.
+- Attrition rate is 16%.
+- Majority of employees are between 20-29 years old.
+- 2.7% more women than male in current employees.
+- Non - binary make up 8.5% of total employees.
+- White have highest average salary.
+- Mixed or Multiple Ethnic Group has one of the lowest average salary.
+- Attrition in frequent travelers is high.
+- Those employees involved in Over-Time have higher chances of attrition.
+- Attrition rate of Tenure 1 year and below is very high.
